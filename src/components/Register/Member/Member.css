@@ -1,0 +1,31 @@
+.s-Header {
+  padding: 25px 10px 20px;
+  max-width: 560px;
+  margin: 0 auto;
+}
+.inline {
+  margin-top: 20px;
+}
+.cline {
+  position: relative;
+  border-radius: 5px;
+  background-color: hsla(0, 0%, 100%, 0.1);
+  padding: 15px 20px;
+}
+.ClineP {
+  font-size: 13px;
+  margin-top: 7px;
+}
+h4 {
+  font-size: 13px;
+  font-weight: 700;
+}
+.link {
+  margin-top: 12px;
+  margin-bottom: 2px;
+}
+.Alink {
+  font-size: 14px;
+  color: #c8922b;
+  font-weight: 700;
+}

@@ -1,0 +1,8 @@
+.footerContainer {
+  border-top: 1px solid #000;
+  height: 50px;
+  font-size: 15px;
+}
+.col {
+  margin-top: 10px;
+}

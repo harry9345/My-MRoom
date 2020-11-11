@@ -1,0 +1,11 @@
+.btn {
+  color: #fff;
+  background-color: Transparent;
+  border-color: Transparent;
+  opacity: 0.5;
+  width: 80px;
+  font-size: 10px;
+}
+.btn:hover {
+  color: white;
+}

@@ -1,0 +1,42 @@
+.control {
+  width: 105px;
+  background-color: hsla(0, 0%, 100%, 0.1);
+  border-radius: 10px;
+  border: 1px solid hsla(0, 0%, 100%, 0.1);
+  line-height: 1;
+  padding: 6px 20px 5px 7px;
+  text-align: center;
+  color: #838383;
+  height: 34px;
+}
+.inputClass {
+  font-size: 16px;
+  font-weight: 500;
+  border: 1px solid transparent;
+  background: hsla(0, 0%, 100%, 0.1);
+  border-radius: 10px;
+  border-top-left-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+  color: #838383;
+  width: 100%;
+  padding: 7px 10px;
+  padding-left: 133px;
+  height: 34px;
+  margin-top: -34px;
+}
+.drop {
+  position: absolute;
+  width: 60px;
+}
+.lable {
+  font-size: 12px;
+  color: #838383;
+}
+.mainConSetting {
+  padding-left: 0;
+  padding-right: 0;
+}
+.formCol {
+  padding-left: 0;
+  padding-right: 0;
+}

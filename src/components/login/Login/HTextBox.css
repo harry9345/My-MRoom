@@ -1,0 +1,19 @@
+.form-control {
+  font-size: 16px;
+  font-weight: 500;
+  border: 1px solid transparent;
+  background: hsla(0, 0%, 100%, 0.12);
+  border-radius: 10px;
+  border-top-left-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+  color: #838383;
+  width: 100%;
+  padding: 7px 10px;
+  padding-left: 133px;
+  height: 34px;
+  text-align: left;
+}
+.lable {
+  font-size: 12px;
+  color: #838383;
+}
